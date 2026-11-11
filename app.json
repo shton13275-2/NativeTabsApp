@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "NativeTabsApp",
+    "slug": "native-tabs-app",
+    "scheme": "nativetabsapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "platforms": ["ios"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.shton13275.nativetabsapp"
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
